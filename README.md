@@ -14,6 +14,17 @@ I am interested in backend software engineering, cloud infrastructure, AI-powere
 
 ## Featured Projects
 
+### Customer Health Dashboard
+**Solo Project / Full-Stack Portfolio Application**  
+**Tech:** Next.js, TypeScript, React, Tailwind CSS, Prisma, PostgreSQL, Recharts, Vercel  
+
+A full-stack customer analytics dashboard built to track customer activity, revenue, support tickets, and account health scores. The app helps identify healthy, warning, and at-risk customer accounts using a database-backed dashboard with charts, filters, and customer detail pages.
+
+**Repository:** [customer-health-dashboard](https://github.com/lzamudio1217-blip/customer-health-dashboard)  
+**Live Demo:** [customer-health-dashboard-azure.vercel.app](https://customer-health-dashboard-azure.vercel.app/)
+
+---
+
 ### HelpingHand Mental Health Support Website
 **Team Project / Hackathon Project**  
 **Tech:** HTML, CSS, JavaScript, Google Cloud Speech-to-Text API, Google Cloud Text-to-Speech API  
